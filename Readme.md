@@ -1,1 +1,1 @@
-A simple jQuery HttpClient. See this link for detail, 
+A simple jQuery HttpClient. See this link for detail, http://weblogs.asp.net/imranbaloch/archive/2013/02/25/a-simple-jquery-httpclient.aspx
